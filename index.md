@@ -1,7 +1,8 @@
 ---
 layout: index
 
-title: Vargax
-tagline:vargax01.github.io
+title: José Domingo Muñoz	
+tagline: josedom24.github.io
 ---
+
 # HOLA2
