@@ -3,7 +3,8 @@ layout: index
 
 title: Vargax	
 tagline: vargax01.github.io
-boton: Sobre Mi
+boton1: Inicio
+boton2: Sobre Mi
 ---
 
 # Bienvenido
