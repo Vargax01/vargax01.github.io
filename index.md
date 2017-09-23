@@ -6,7 +6,7 @@ tagline: vargax01.github.io
 boton1: Inicio
 boton2: Sobre Mi
 enbot1: /
-enbot2: /sobremi/
+enbot2: vargax01.github.io/sobremi/
 ---
 
 # Bienvenido
