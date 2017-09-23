@@ -5,8 +5,8 @@ title: Vargax
 tagline: vargax01.github.io
 boton1: Inicio
 boton2: Sobre Mi
-enbot1: /
-enbot2: vargax01.github.io/sobremi/
+enbot1: ../
+enbot2: ./
 ---
 # Sobre Mi
 
