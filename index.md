@@ -6,6 +6,7 @@ tagline: vargax01.github.io
 boton1: Inicio
 boton2: Sobre Mi
 ---
+
 # Bienvenido
 ![debian](./img/debian_logo.png)
 <br>
