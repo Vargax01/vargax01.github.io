@@ -22,10 +22,10 @@ que no estamos echándole tierra a Mysql y Postgres, ya que esas base de datos e
 Bien nos encontramos con la primera limitación que no nos proporciona ni mysql ni postgres pero si nos lo proporciona oracle. Bien pero ¿Ques es esto?
 Las clausualas de almacenamiento como bien dice su nombre es un claúsula que podemos añadir tanto al crear tablas como tablespaces en oracle
 que nos permite configurar las extenesiones de dicho objeto como por ejemplo:<br>
--Tamaño inicial de la primera extensión
--Tamañao de las próximas extensiones que se creen
--Extensiones reservadas
--Total de extensiones que puede tener
+-Tamaño inicial de la primera extensión<br>
+-Tamañao de las próximas extensiones que se creen<br>
+-Extensiones reservadas<br>
+-Total de extensiones que puede tener<br>
 Las claúsulas de almacenamiento quizás nos puedan servir en un entorno complejo pero si nos vamos a dedicar a crear tablas y poco más quizás no
 nos convenga.
 <br>
